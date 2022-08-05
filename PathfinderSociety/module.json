@@ -11,28 +11,28 @@
       "name": "items",
       "label": "Society Items",
       "path": "packs/items.db",
-      "entity": "Item",
+      "type": "Item",
       "module": "PathfinderSociety"
     },
     {
       "name": "monsters",
       "label": "Society Monsters",
       "path": "packs/monsters.db",
-      "entity": "Actor",
+      "type": "Actor",
       "module": "PathfinderSociety"
     },
     {
       "name": "players",
       "label": "Society Players",
       "path": "packs/players.db",
-      "entity": "Actor",
+      "type": "Actor",
       "module": "PathfinderSociety"
     },
     {
       "name": "scenes",
       "label": "Society Scenes",
       "path": "packs/scenes.db",
-      "entity": "Scene",
+      "type": "Scene",
       "module": "PathfinderSociety"
     }
   ]
