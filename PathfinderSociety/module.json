@@ -1,0 +1,39 @@
+{   
+   "name": "PathfinderSociety",   
+   "title": "Pathfinder Society",   
+   "description": "Pathfinder Society Compendium",   
+   "author": "Seamus",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.5.5",
+   "packs": [
+    {
+      "name": "items",
+      "label": "Society Items",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "module": "PathfinderSociety"
+    },
+    {
+      "name": "monsters",
+      "label": "Society Monsters",
+      "path": "packs/monsters.db",
+      "entity": "Actor",
+      "module": "PathfinderSociety"
+    },
+    {
+      "name": "players",
+      "label": "Society Players",
+      "path": "packs/players.db",
+      "entity": "Actor",
+      "module": "PathfinderSociety"
+    },
+    {
+      "name": "scenes",
+      "label": "Society Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "PathfinderSociety"
+    }
+  ]
+ }
