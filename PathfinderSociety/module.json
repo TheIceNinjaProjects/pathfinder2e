@@ -3,7 +3,7 @@
    "title": "Pathfinder Society",   
    "description": "Pathfinder Society Compendium",   
    "author": "Seamus",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.5.5",
    "packs": [
@@ -11,29 +11,31 @@
       "name": "items",
       "label": "Society Items",
       "path": "packs/items.db",
-      "type": "Item",
+      "entity": "Item",
       "module": "PathfinderSociety"
     },
     {
       "name": "monsters",
       "label": "Society Monsters",
       "path": "packs/monsters.db",
-      "type": "Actor",
+      "entity": "Actor",
       "module": "PathfinderSociety"
     },
     {
       "name": "players",
       "label": "Society Players",
       "path": "packs/players.db",
-      "type": "Actor",
+      "entity": "Actor",
       "module": "PathfinderSociety"
     },
     {
       "name": "scenes",
       "label": "Society Scenes",
       "path": "packs/scenes.db",
-      "type": "Scene",
+      "entity": "Scene",
       "module": "PathfinderSociety"
     }
-  ]
+  ],
+    "manifest": "https://github.com/TheIceNinjaProjects/pathfinder2e/releases/download/1.0.1/module.json",
+    "download": "https://github.com/TheIceNinjaProjects/pathfinder2e/releases/download/1.0.1/PathfinderSociety.zip"
  }
