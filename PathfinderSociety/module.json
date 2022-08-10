@@ -3,7 +3,7 @@
    "title": "Pathfinder Society",   
    "description": "Pathfinder Society Compendium",   
    "author": "Seamus",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.5.5",
    "packs": [
@@ -36,6 +36,6 @@
       "module": "PathfinderSociety"
     }
   ],
-    "manifest": "https://github.com/TheIceNinjaProjects/pathfinder2e/releases/download/1.0.1/module.json",
-    "download": "https://github.com/TheIceNinjaProjects/pathfinder2e/releases/download/1.0.1/PathfinderSociety.zip"
+    "manifest": "https://github.com/TheIceNinjaProjects/pathfinder2e/releases/download/1.0.2/module.json",
+    "download": "https://github.com/TheIceNinjaProjects/pathfinder2e/releases/download/1.0.2/PathfinderSociety.zip"
  }
